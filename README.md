@@ -1,3 +1,3 @@
 # PRICKMagazineWebsite
 
-Hosted on AWS under https://www.prickmagazine.com
+Hosted on AWS - [PRICK Magazine](https://www.prickmagazine.com)
