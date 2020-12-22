@@ -30,10 +30,17 @@
       <updated>1608324496434</updated>
       <workItem from="1608324498541" duration="89000" />
       <workItem from="1608324670438" duration="162000" />
+      <workItem from="1608596089803" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="203" key="new project wizard" timestamp="1608596113337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="203" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608596113337" />
   </component>
 </project>
