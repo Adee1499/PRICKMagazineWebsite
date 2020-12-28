@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92b080e9-9806-4c02-b8ba-d49e7a465094" name="Default Changelist" comment="" />
+    <list default="true" id="512b8802-aaf8-40ff-9696-1d488eebd9b7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1lqVEFqD333LsBWvQPqCEwLaAlr" />
+  <component name="ProjectId" id="1m11Ftt3eU9B6wRs8RdAd0qLmOE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,28 +23,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="92b080e9-9806-4c02-b8ba-d49e7a465094" name="Default Changelist" comment="" />
-      <created>1608324496434</created>
+      <changelist id="512b8802-aaf8-40ff-9696-1d488eebd9b7" name="Default Changelist" comment="" />
+      <created>1608646184067</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608324496434</updated>
-      <workItem from="1608324498541" duration="89000" />
-      <workItem from="1608324670438" duration="162000" />
-      <workItem from="1608596089803" duration="24000" />
+      <updated>1608646184067</updated>
+      <workItem from="1608646185101" duration="2638000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="342" y="203" key="new project wizard" timestamp="1608596113337">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="203" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608596113337" />
   </component>
 </project>

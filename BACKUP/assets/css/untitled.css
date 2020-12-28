@@ -1,0 +1,9 @@
+img, svg {
+}
+
+.call-to-action.text-white.text-center {
+}
+
+.navbar-expand>.container { 
+    flex-wrap: wrap!important
+}
