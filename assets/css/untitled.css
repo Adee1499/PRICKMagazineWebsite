@@ -4,3 +4,6 @@
     --menu-speed: 0.75s;
 }
 
+.navbar-expand>.container {
+    flex-wrap: wrap!important
+}
