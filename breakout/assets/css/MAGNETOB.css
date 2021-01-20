@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'MAGNETOB';
+	src: url(../../assets/fonts/MAGNETOB.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MAGNETOB.woff) format('woff'),
+	url(../../assets/fonts/MAGNETOB.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
