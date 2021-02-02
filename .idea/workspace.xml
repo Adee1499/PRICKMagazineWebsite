@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="512b8802-aaf8-40ff-9696-1d488eebd9b7" name="Default Changelist" comment="" />
+    <list default="true" id="512b8802-aaf8-40ff-9696-1d488eebd9b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/breakout/article-review-gilmore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/untitled.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/untitled.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breakout/pieces.html" beforeDir="false" afterPath="$PROJECT_DIR$/breakout/pieces.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +76,10 @@
       <workItem from="1610120230023" duration="55000" />
       <workItem from="1610450983904" duration="36000" />
       <workItem from="1610451043855" duration="609000" />
-      <workItem from="1611182172606" duration="2888000" />
+      <workItem from="1611182172606" duration="3435000" />
+      <workItem from="1611681390684" duration="166000" />
+      <workItem from="1612259423901" duration="519000" />
+      <workItem from="1612262820807" duration="384000" />
     </task>
     <servers />
   </component>
@@ -88,5 +96,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
